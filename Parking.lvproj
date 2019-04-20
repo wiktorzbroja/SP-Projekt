@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Parking.vi" Type="VI" URL="../Parking.vi"/>
+		<Item Name="Str_Lam&amp;Sil.ctl" Type="VI" URL="../Str_Lam&amp;Sil.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

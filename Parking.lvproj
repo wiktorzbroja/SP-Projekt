@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Brama_Sub_VI.vi" Type="VI" URL="../Brama_Sub_VI.vi"/>
 		<Item Name="Change FP Window bounds_LV2010.vi" Type="VI" URL="../Change FP Window bounds_LV2010.vi"/>
 		<Item Name="Kto_był_pierwszy_SUBVI.vi" Type="VI" URL="../Kto_był_pierwszy_SUBVI.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
